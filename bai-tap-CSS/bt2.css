@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(img/Tai-hinh-nen-xe-Audi-dep10-840x473.jpg);
+    background-repeat: no-repeat;
+    background-position: 300px 25px;
+}
+
+.zone1{
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+div>button{
+    margin-top: 50px;
+    font-size: 13px;
+    padding: 15px 30px;
+    background-color: rgb(230, 51, 19);
+    color: white;
+    border: none;
+}
+div,p{
+    text-align: center;
+
+}

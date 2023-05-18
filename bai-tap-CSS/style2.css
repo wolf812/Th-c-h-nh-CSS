@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+nav{
+    background-color: rgb(179, 183, 187);
+    padding: 7px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    margin: 0 10px;
+}
+a{
+    color: black;
+   text-decoration: none;
+}
+a:hover{
+    color: yellow;
+    background-color:blue;
+}
